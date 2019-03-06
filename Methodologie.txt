@@ -1,0 +1,12 @@
+Méthodologie : 
+
+Téléchargement de la démo (Tutoriel Spring N°4.2 : Accès données avec Spring Data) OK
+Import dans STS OK
+Tester l’app (Junit) et corriger/adapter si nécessaire OK
+Importer classe couche domaine de l’ancien TP (Formation) + test OK
+Importer classe couche DAO de l’ancien TP (FormationDao) + test OK
+Importer classe couche service de l’ancien TP (FormationService) + test OK
+Ajouter les beans du fichier demo-beans.xml dans spring-data.xml (Service et DAO) OK
+Tester afin de vérifier l’injection de dépendance OK
+Faire un mvn clean test pour faire un test Junit sur l’application OK
+Analyser les logs, vérifier que les tests n’ont pas échoué et observer la BD OK
